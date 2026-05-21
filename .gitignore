@@ -1,0 +1,22 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Environment Variables (CRITICAL: JANGAN PERNAH UPLOAD API KEY)
+.env
+
+# Database
+*.db
+*.sqlite3
+database/*.db
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS Files
+.DS_Store
+Thumbs.db
